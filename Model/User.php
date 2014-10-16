@@ -11,8 +11,7 @@
 
 namespace Sonata\UserBundle\Model;
 
-use FOS\UserBundle\Entity\User as AbstractedUser;
-use Sonata\UserBundle\Model\UserInterface;
+use FOS\UserBundle\Model\User as AbstractedUser;
 
 /**
  * Represents a User model
